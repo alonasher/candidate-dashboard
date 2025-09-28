@@ -61,7 +61,7 @@ candidate-dashboard
 
 4. Open a new terminal, navigate to the client directory and install dependencies:
    ```
-   cd ../client
+   cd candidate-dashboard/client
    npm install
    ```
 
