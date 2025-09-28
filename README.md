@@ -50,7 +50,7 @@ candidate-dashboard
 
 2. Navigate to the server directory and install dependencies:
    ```
-   cd server
+   cd candidate-dashboard/server
    npm install
    ```
 
